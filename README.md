@@ -1,2 +1,2 @@
-# exatest
-Exalate Testing
+# Exalte
+Exalate Sync Testing purposes only
